@@ -1,6 +1,10 @@
 # XenonDocs
 A lightweight documentation package, made for personal use... but open-sourced!
 
+## Preview XenonDocs
+If you'd like to see what xenonDocs looks like, there visit this link!
+https://nommiin.github.io/xenonDocs/
+
 ## Getting Started
 Getting started with XenonDocs is super simple!
  1. Download the source and extract it into any directory.
